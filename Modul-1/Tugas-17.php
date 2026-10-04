@@ -5,4 +5,4 @@ function sum($x, $y)
     return $z;
 }
 
-echo sum(5, 5); // Contoh pemanggilan fungsi dengan nilai argumen
+echo sum(5, 5);
